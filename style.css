@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 .nav-corner{
     border-radius: 15px;
@@ -36,4 +36,20 @@
 .cat3{
     background-color: orange;
     
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 15px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+    
+}
+#contactus{
+    height: 300px;
+}
+.card-footer:last-child {
+    border-radius: 15px;
 }
